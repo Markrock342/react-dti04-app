@@ -10,7 +10,7 @@ function CarCal() {
     <>
       <Navbar/>
   <HeaderCal titlename="Car Calculator" imgname={carImg} titleColor="#d63031" />
-      <Footer/>
+      
     </>
   );
 }
